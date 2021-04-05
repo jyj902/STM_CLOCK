@@ -1,0 +1,2 @@
+tim.c:23:6:HAL_TIM_PeriodElapsedCallback	16	static
+tim.c:54:6:time_display	32	static

@@ -1,0 +1,3 @@
+adc.c:38:6:HAL_GPIO_EXTI_Callback	24	static
+adc.c:84:5:ADC_key	8	static
+adc.c:95:6:Folling_ADC	16	static

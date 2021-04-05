@@ -1,0 +1,2 @@
+flash.c:23:6:load_nvitems	16	static
+flash.c:34:19:update_nvitems	72	static
